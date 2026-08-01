@@ -1,18 +1,12 @@
 # An AI deal-sourcing platform, built by a non-engineer
 
-**RTP Global · Investment Strategy &amp; Research Intern · Spring 2026**
+**RTP Global · Special Projects (Fund of Funds) · Spring 2026**
 
 I built and shipped an internal tool that turns a venture fund's fragmented deal data into a live, queryable engine for finding high-growth startups early — working solo, with AI-assisted development (Claude Code).
 
-| | |
-|---|---|
-| **1** | solo non-engineer build |
-| **4 → 1** | data sources unified |
-| **40+** | emerging managers covered |
-
 ## Context
 
-RTP Global is a global early-stage technology venture fund (about $1B in assets) that invests from Seed to Series A. Alongside its direct investing, its fund-of-funds arm backs 40+ emerging managers, which generates an enormous, constantly changing universe of portfolio companies to keep track of.
+RTP Global is a global early-stage technology venture fund (about $1B in assets) that invests from Seed to Series A. Alongside its direct investing, its fund-of-funds arm backs emerging managers, which generates an enormous, constantly changing universe of portfolio companies to keep track of.
 
 ## The problem
 
@@ -38,6 +32,6 @@ The biggest takeaway is that a non-engineer who can think in systems can now shi
 
 ---
 
-> This is a sanitized overview shared with the firm's permission. Proprietary data, the specific scoring logic, and source code are intentionally omitted out of respect for confidentiality.
+> This is a sanitized overview. Proprietary data, the specific scoring logic, and source code are intentionally omitted out of respect for confidentiality.
 
 More of my work: [github.com/amankrai28](https://github.com/amankrai28) · [LinkedIn](https://linkedin.com/in/amakrai)
