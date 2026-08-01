@@ -1,4 +1,4 @@
-# An AI deal-sourcing platform, built by a non-engineer
+# An AI deal-sourcing platform
 
 **RTP Global · Special Projects (Fund of Funds) · Spring 2026**
 
