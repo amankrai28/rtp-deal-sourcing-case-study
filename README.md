@@ -28,8 +28,7 @@ The platform replaced manual lookups with one queryable system and turned static
 
 ## What I learned
 
-The biggest takeaway is that a non-engineer who can think in systems can now ship real, production-grade software with AI in the loop. The hard parts were rarely the code: they were framing the right problem, designing signals that actually predict something useful, and treating data quality as a first-class feature rather than an afterthought. It is a preview of how operators, not just engineers, will build the next wave of internal tools.
-
+The biggest takeaway is that 'one-shotting' is very overrated. Anything that must endure the test of time and is more than a hobby project should be built with proper planning (PRDs / architecture choice, etc. are still very relevant. A non-engineer who can think in systems can now ship real software with AI in the loop, but it often leads to overestimation of capabilities and underestimation of the time needed to build something.
 ---
 
 > This is a sanitized overview. Proprietary data, the specific scoring logic, and source code are intentionally omitted out of respect for confidentiality.
